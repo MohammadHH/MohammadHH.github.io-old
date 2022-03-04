@@ -22,12 +22,12 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "Mohammad-Hamarsheh",
         "url": "http://linkedin.com/in/mohammad-hamarsheh-3b82a822a"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
+        "username": "Mohammad",
         "url": "http://twitter.com/Mohamma23768239"
       }
     ]
@@ -61,7 +61,10 @@
         "Storybook",
         "React Native",
         "Java",
-        "Python"
+        "Python",
+        "HTML",
+        "CSS",
+        "Spring Boot"
       ]
     },
     {
@@ -89,32 +92,67 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Riskified",
+      "position": "Frontend Engineer - Infra Team",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2021-01-15",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Working on a design system that is used internally by different teams at Riskified",
+      "highlights": []
+    },
+    {
+      "company": "Nokia",
+      "position": "Fullstack Developer - Mediation Team",
+      "website": "",
+      "startDate": "2021-03-01",
+      "endDate": "2021-10-10",
+      "summary": "Nokia Mediation is working on \"Data Refinery for Charging Gateway\". Data Refinery comes with multiple products that are customized to extract the information from different raw data sources by various transformations, aggregations, filtering, etc. It combines the resulting data flow to allow further enrichment of the data.<br/> In this position, I worked with a different set of technologies where Python, Java, Redis DB, and Robot testing framework were used to do a various range of tasks that included:",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Developing data transformation layers (streams)",
+        "Database management using Redis",
+        "Building and deploying streams based on customer requirements",
+        "Handling Jenkins pipelines for CI/CD",
+        "Writing integration tests for different products using the Nokia Robot framework",
+        "Maintaining multiple internal tools used by different Nokia mediation teams",
+        "Editing open-source projects and extending their functionalities to meet our project needs",
+        "Integrating different Nokia mediation repositories and provide continuous maintenance for them",
+        "Guiding documentation specialists through implemented features and provide them with all necessary inputs"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "EXALT Technologies",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "2021-01-15",
+      "endDate": "Present",
+      "summary": "Effectively participate on projects outsourced to Exalt by international companies including Nokia and Riskified",
+      "highlights": []
+    },
+    {
+      "company": "EXALT Technologies",
+      "position": "Full Stack Internship",
+      "website": "",
+      "startDate": "2020-06-15",
+      "endDate": "2020-09-01",
+      "summary": "Participate in an extensive training on modern technologies in backend, databases and frontend",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Familiarized with Spring basics including dependency injection (DI) and inversion of control (IoC)",
+        "Learnt Spring Boot basics and got comfortable with its auto configuration and its different main projects",
+        "Grasped Restful APIs architecture pattern and its best practices",
+        "Implementation and design of different Rest APIs with Spring Boot Web",
+        "Handling SQL Databases with Spring Boot Data JPA",
+        "Centralizing Rest APIs error handling through Spring's advice controllers",
+        "Spring Boot security authentication and authorization implementation with json web token (JWT)",
+        "Rest API endpoints documentation with Swagger",
+        "Familiarized with single page applications concepts and paradigms",
+        "Learnt ReactJs basics including components, state and props",
+        "Familiarized with React class based components with their lifecycle",
+        "Familiarized with React functional components with hooks and custom hooks",
+        "Familiarized with React context api, routing and rest API consumption",
+        "Turning website land pages mockups in to a functional working websites"
       ]
     }
   ],
-  "volunteer": [],
-  "awards": [],
   "references": [
     {
       "name": "Available upon request",

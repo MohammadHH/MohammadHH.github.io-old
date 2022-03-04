@@ -4,11 +4,20 @@
     <h2 class="ui center aligned header no-bottom">{{ site.data.bio.basics.name }}</h2>
   </div>
 
-  <div class="eight wide left aligned column">
+  <div class="six wide left aligned column">
     {% include bio-network-links.html %}
   </div>
+  
+  <div class="four wide left aligned column">
+    <div
+    style="width: 120px;"
+    class="ui fluid centered small circular image"
+    >
+      <img src="{{ site.data.bio.basics.picture }}" />
+    </div>
+  </div>
 
-  <div class="eight wide right aligned column">
+  <div class="six wide right aligned column">
     {% include bio-address.html %}
   </div>
 </div>
