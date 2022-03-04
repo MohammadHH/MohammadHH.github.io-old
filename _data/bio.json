@@ -1,58 +1,52 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Mohammad Hamarsheh",
+    "label": "Software Engineer",
+    "picture": "https://MohammadHH.github.io/template/images/image.png",
+    "email": "mhmd98.home@gmail.com",
+    "phone": "+970595968604",
+    "website": "https://MohammmadHH.github.io",
+    "summary": "I'm a web developer with more than 2 years of professional experience working for international companies on enterprise level projects using modern web technologies.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "P615",
+      "city": "Ramallah",
+      "countryCode": "PA",
+      "region": "West Bank"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "MohammadHH",
+        "url": "http://github.com/MohammadHH"
       },
       {
         "network": "linkedin",
         "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "url": "http://linkedin.com/in/mohammad-hamarsheh-3b82a822a"
       },
       {
         "network": "twitter",
         "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "url": "http://twitter.com/Mohamma23768239"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "linux",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Arch Linux",
+        "Gnome",
+        "zsh",
+        "shell scripting"
       ]
     },
     {
-      "name": "data mining",
+      "name": "android custom roms",
       "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
+        "LineageOS",
+        "Pixel Experience"
       ]
     }
   ],
@@ -61,33 +55,33 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Typescript",
+        "ReactJS",
+        "Storybook",
+        "React Native",
+        "Java",
+        "Python"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
+        "Arch Linux",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Postman",
+        "VSCode"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "AN-Najah National University, Palestine, Nablus",
+      "area": "Computer Engineering",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "2016-09-01",
+      "endDate": "2021-05-15",
       "gpa": "",
       "courses": [
       ]
@@ -119,47 +113,8 @@
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
+  "volunteer": [],
+  "awards": [],
   "references": [
     {
       "name": "Available upon request",
