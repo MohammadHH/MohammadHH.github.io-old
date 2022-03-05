@@ -24,14 +24,14 @@
     <div class="four wide right aligned column no-bottom">
       <p class="ui no-bottom"><b>
         {% if entry.startDate %}
-        {{ entry.startDate | date: "%B %Y" }}
+        {{ entry.startDate | date: "%b %Y" }}
         {% endif %}
         {% if entry.startDate and entry.startDate != '' and entry.endDate and entry.endDate != '' %}
         -
         {% endif %}
         {% if entry.endDate %}
           {% if entry.endDate != "Present" %}
-            {{ entry.endDate | date: "%B %Y" }}
+            {{ entry.endDate | date: "%b %Y" }}
           {% else %}
             {{ entry.endDate }}
           {% endif %}

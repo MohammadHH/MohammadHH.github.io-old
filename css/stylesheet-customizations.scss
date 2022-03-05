@@ -20,3 +20,16 @@ body {
   // color: silver;
 }
 
+@media only screen and (min-width: 1200px) {
+  .ui.container.text {
+    max-width: 1127px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+}
+
+.paragraph {
+  font-size: 1.35rem;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.7);
+}

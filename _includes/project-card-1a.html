@@ -3,7 +3,7 @@
 
 <a class="card" href="{% if page.projecturl %}{{ page.projecturl }}{% else %}{{ site.baseurl}}{{ include.page.url }}{% endif %}">
   {% if include.page.image %}
-  <div class="image">
+  <div class="image" style="padding: 10px;">
     <img src="{{ site.baseurl }}/{{ include.page.image }}">
   </div>
   {% endif %}
@@ -25,5 +25,4 @@
       {% endfor %}
     </div>
   </div>
-
 </a>
