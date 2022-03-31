@@ -97,8 +97,17 @@
       "website": "",
       "startDate": "2021-10-10",
       "endDate": "Present",
-      "summary": "Working on a design system that is used internally by different teams at Riskified",
-      "highlights": []
+      "summary": "Riskified provides a rich platform that aims at providing merchant buisnisses with fraud detection and prevention using various technologies in which behavior analysis, machine learning and many other techniques are used. <br/> Riskified distinguishes itself from other similar services with a smooth,responsive and feature-rich webapps that are user friendly. As a part of experienced frontend team, I had many responsiblities which mainly includes the following: ",
+      "highlights": [
+        "Implementing various components as part of a design system that is used internally across different teams at Riskified",
+        "Developing and maintaining front-end applications.",
+        "Maintain, troubleshoot, and debug complex software applications at the enterprise level.",
+        "Perform Code reviews (for peers).",
+        "Recommend optimal code upgrades.",
+        "Working on many frontend projects in which ReactJs and many other sophisticated libraries were used",
+        "Handling bugs for already implemented components",
+        "Work together with designers to get design requirements and ensure smooth and pixel perfect products"
+      ]
     },
     {
       "company": "Nokia",
